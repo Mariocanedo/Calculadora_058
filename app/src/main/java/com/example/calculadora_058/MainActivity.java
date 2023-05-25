@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
 
         // recibir datos desde layout
 
+        // segundo cambio para actualizar git
+
+
 
         EditText editText1 = findViewById(R.id.edit1);
         EditText editText2 = findViewById(R.id.edit2);
